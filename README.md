@@ -1,4 +1,5 @@
 🌦️ Local Weather App
+
 Live Demo 👉 local-weather-details.netlify.app
 A sleek and responsive Weather App built using HTML, CSS, and JavaScript that provides real-time weather updates for any city worldwide.
 
