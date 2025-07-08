@@ -1,9 +1,11 @@
 🌦️ Local Weather App
 
 Live Demo 👉 local-weather-details.netlify.app
+
 A sleek and responsive Weather App built using HTML, CSS, and JavaScript that provides real-time weather updates for any city worldwide.
 
 🚀 Features
+
 🔍 Search by City – Get weather instantly by typing the city name
 
 🌡️ Live Temperature – Shows current temperature in °C
@@ -18,8 +20,11 @@ A sleek and responsive Weather App built using HTML, CSS, and JavaScript that pr
 
 🛠️ Tech Stack
 HTML5 – Page structure
+
 CSS3 – Clean, responsive design
+
 JavaScript (Vanilla) – API calls, dynamic data handling
+
 OpenWeatherMap API – Real-time weather data
 
 📦 How to Use
