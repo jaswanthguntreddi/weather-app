@@ -46,3 +46,9 @@ Replace the placeholder key in the JS file with your own API key for full access
 🌤️ Add 5-day forecast
 🎨 Dark mode toggle
 📍 Use geolocation for local weather auto-detect
+
+📸 Preview
+![Screenshot 2025-07-10 001604](https://github.com/user-attachments/assets/b7070f41-9df8-4d73-a8be-0883ebca8b38)
+![Screenshot (26)](https://github.com/user-attachments/assets/a575d10c-05f2-45f6-8478-0eb00dd9753e)
+
+
